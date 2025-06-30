@@ -1,5 +1,7 @@
 # Day-5-Elevate-Labs
 SQL Developer Internship Day 5 Task
 
- 1.Create two related tables (e.g., Customers, Orders)
- 2.Use INNER, LEFT, RIGHT, FULL JOIN
+ Created two related tables Customers, Orders) & <BR>
+ prformed following operations on tables INNER, LEFT, RIGHT, FULL JOIN
+
+ in mysql Outer Full Join or Full Join is not supported for that used Union & left and right join
